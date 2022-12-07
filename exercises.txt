@@ -1,5 +1,0 @@
-EXERCISE 2
-https://github.com/RasmusRPaulsen/DTUImageAnalysis/tree/main/exercises/ex2-CamerasAndLenses
-
-EXERCISE 2b
-https://github.com/RasmusRPaulsen/DTUImageAnalysis/tree/main/exercises/ex2b-ChangeDetectionInVideos
